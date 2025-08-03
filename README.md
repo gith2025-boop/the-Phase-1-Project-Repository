@@ -6,12 +6,17 @@ This project analyzes the movie industry, and by extension the imdb statistics t
 Business Problem
 
 The Head of Microsoft new movie studio may be able to understand what types of movies to produce for their audience, making the right decisions on resource allocation. By understanding this, the Head of Microsoft new movie studio will be able to understand what types of movies are best to produce, based on what is consumed the most.
+
 Data Understanding
 
 The Head of Microsoft new movie Studio has access to imdb dataset, which is another big player in movies, about their movie production in recent years, thwie  years of release and their genres. This will enable the head to notice trends in types of movies.
+
  manipulation
+ 
 Analysis
+
 Data<img width="1812" height="552" alt="download" src="https://github.com/user-attachments/assets/2367ccfc-6c05-4e2b-a528-05c1dd2d0196" />
+ 
  conclusion
  This analysis leads to a few observations that can be recommended to the head of Microsoft new Movie Studio.
 
@@ -22,6 +27,7 @@ Data<img width="1812" height="552" alt="download" src="https://github.com/user-a
 2.   These three genres are common in the recent years, so currently relevant
 3.   
 4. 2018 had the most movies
+5. 
 Recommendations
 
 1. They should be prepared to produce more movies
